@@ -3,11 +3,10 @@
     margin: 0;
     box-sizing: border-box;
 }
-/*}*/
-/*body{*/
-/*     !*background-image: url("assets/img/ff.jpg");*!*/
-/*     background-image: url("assets/img/eeee.jpg");*/
-/* }*/
+body{
+    background-image: url("https://i.pinimg.com/736x/0f/ad/9d/0fad9da468fe47a830b124c774c0cc32.jpg");
+
+}
 .container{
     max-width: 1200px;
     margin: 0 auto;
@@ -20,7 +19,6 @@
 }
 .section-padding{
     padding: 100px 0;
-    background-image: url("https://i.pinimg.com/736x/0f/ad/9d/0fad9da468fe47a830b124c774c0cc32.jpg");
 }
 .btn {
     height: 70px;
