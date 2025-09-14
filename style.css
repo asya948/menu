@@ -20,3 +20,6 @@
     text-transform: uppercase;
     color: white;
 }
+body{
+   background-image: url('../img/menu.jpg');
+}
